@@ -1,6 +1,8 @@
 # sublime-text-3-settings
-My Sublime Text 3 settings and useful resource links
 
+Lightweight, popular, professional
+
+My Sublime Text 3 settings and useful resource links
 
 
 ## Installation
@@ -11,11 +13,10 @@ Go to link https://www.sublimetext.com/3 or use `brew install sublime3`
 
 https://packagecontrol.io/installation
 
-
 ## Packages
 
 * Markdown Editing
-* 
+* Bootstrap 3 Snippets https://github.com/JasonMortonNZ/bs3-sublime-plugin
 
 ## Resources
 https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts
