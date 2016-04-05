@@ -1,0 +1,50 @@
+{
+
+    // To see if the setting is being applied properly, 
+    // go to view -> show console and enter in view.settings().get('bold_folder_labels'). 
+    // If its enabled properly it should return true.
+
+
+    // links:
+    // 1) https://github.com/wesbos/cobalt2/
+    // 2) https://github.com/jisaacks/GitGutter
+
+    "font_face": "Courier New",
+	"font_size": 11,
+    "font_options": "directwrite",
+	"line_numbers": true,
+    "gutter": true,
+    "margin": 4,
+	"rulers":
+	[
+		80,
+		120
+	],
+
+	"tab_size": 4,
+    "highlight_line": true,
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
+    "fade_fold_buttons": false,
+    "bold_folder_labels": true,
+
+    "draw_minimap_border": true,
+
+    "caret_style": "phase",
+    "wide_caret": true,    
+    "caret_extra_width": 2,
+
+    "match_brackets_angle": true,
+
+    "fallback_encoding": "UTF-8",
+
+    "highlight_modified_tabs": true,
+
+    "show_encoding": true,
+    "show_line_endings": true,
+
+	"find_selected_text": true,
+
+	"translate_tabs_to_spaces": true,
+    "sidebar_font_big": true,
+}
